@@ -21,3 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jscloneski)](https://git.io/streak-stats)
+
