@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm João Scloneski 👋
+
+🚀 Aspiring Frontend Developer
+<br>
+🚀 Currently studying HTML
+
+
+
 
 <!--
 **jscloneski/jscloneski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
