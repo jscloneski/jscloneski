@@ -1,8 +1,8 @@
-### Hi there, I'm João Scloneski 👋
+### Hi there, I'm João Scloneski 🚀
 
-🚀 Aspiring Frontend Developer
+🪐 Aspiring Frontend Developer
 <br>
-🚀 Currently studying HTML
+🪐 Currently studying HTML
 
 
 
@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight)
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jscloneski)](https://git.io/streak-stats)
 
