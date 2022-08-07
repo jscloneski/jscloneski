@@ -1,10 +1,13 @@
-### Hi there, I'm João Scloneski 🚀
+### <h1> Hi there, I'm João Scloneski 🚀 </h1>
 
 🪐 Aspiring Frontend Developer
 <br>
 🪐 Currently studying HTML
 
+<br>
 
+
+![](giphy.gif)
 
 
 <!--
