@@ -14,7 +14,7 @@
 Linkedin and email hyperlink
 -->
 
- <div style="display: block">
+ <div style="display: flex">
     <a 
        href="https://www.linkedin.com/in/jscloneskidev/" target="_blank" rel="noopener">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -36,7 +36,9 @@ Gif:
 Read me status:
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight)
+  <div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight" />
+  </div>
 
 
 <!--
