@@ -1,4 +1,7 @@
-<!--
+
+
+<main>
+ <!--
 **jscloneski/jscloneski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -13,8 +16,8 @@
 <!--
 Linkedin and email hyperlink
 -->
-
- <div style="display: flex">
+ 
+  <div style="display: flex">
     <a 
        href="https://www.linkedin.com/in/jscloneskidev/" target="_blank" rel="noopener">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -37,29 +40,19 @@ Read me status:
 -->
 
   <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight" alt="js" />
+   <img height=160em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
   </div>
 
 
-<!--
-Read me streak status:
--->
-
-<div align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight"
-</div>
-
-
-<!--
-Top languages:
--->
-
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact&theme=tokyonight"
-</div>
+  <div align="center">
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact&theme=tokyonight" alt="js" />
+  </div>
 
 
 <br>
+
+</main>
 
 
 
