@@ -31,7 +31,9 @@ Linkedin and email hyperlink
 <!--
 Gif:
 -->
-![](giphy.gif)
+ 
+
+![](giphy.gif)"
 
 <br>
 
@@ -39,14 +41,15 @@ Gif:
 Read me status:
 -->
 
-  <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js" />
-   <img height=160em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
+  <div align="left">
+   <img height=148em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js" />
+   <img height=148em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
   </div>
 
+ <br>
 
-  <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js" />
+  <div align="left">
+   <img height=161em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js" />
   </div>
 
 
