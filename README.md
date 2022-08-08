@@ -42,8 +42,8 @@ Read me status:
 -->
 
   <div align="left">
-   <img height=148em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js" />
-   <img height=148em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
+   <img height=145em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js" />
+   <img height=145em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
   </div>
 
  <br>
