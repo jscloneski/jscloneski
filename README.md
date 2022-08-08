@@ -45,13 +45,19 @@ Read me status:
 Read me streak status:
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight"
+</div>
+
 
 <!--
 Top languages:
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&layout=compact&theme=tokyonight"
+</div>
+
 
 <br>
 
