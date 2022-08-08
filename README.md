@@ -6,6 +6,17 @@
 
 <br>
 
+ <div style="display: block">
+    <a 
+       href="https://www.linkedin.com/in/jscloneskidev/" target="_blank" rel="noopener">
+       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a 
+       href="mailto: jscloneski.dev@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
+
 
 ![](giphy.gif)
 
@@ -26,8 +37,8 @@ Here are some ideas to get you started:
 -->
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight)](https://git.io/streak-stats)
 
