@@ -40,7 +40,7 @@ Read me status:
 -->
 
   <div align="center">
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&show_icons=true&hide=contribs,prs&theme=tokyonight" alt="js" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js" />
    <img height=160em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
   </div>
 
