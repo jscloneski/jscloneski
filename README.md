@@ -2,7 +2,7 @@
 
 🪐 Aspiring Frontend Developer
 <br>
-🪐 Currently studying HTML
+🪐 Currently studying CSS
 
 <br>
 
