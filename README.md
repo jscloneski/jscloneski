@@ -33,7 +33,7 @@ Gif:
 -->
  
 
-![](giphy.gif)"
+![](giphy.gif)
 
 <br>
 
@@ -46,10 +46,8 @@ Read me status:
    <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js"/>
   </div>
 
- <br>
-
   <div align="left">
-   <img height=151em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
+   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
   </div>
 
 
