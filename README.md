@@ -38,7 +38,7 @@ Gif:
 
 ![](giphy.gif)
 
-<br>
+
 
 <!--
 Read me status:
