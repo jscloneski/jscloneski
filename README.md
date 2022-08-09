@@ -11,6 +11,10 @@
 <br>
 🪐 Currently studying CSS
 
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=jscloneski&label=PROFILE+VIEWS">
+</div>
+
 <br>
 
 <!--
@@ -27,6 +31,7 @@ Linkedin and email hyperlink
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
+
 
 <!--
 Gif:
