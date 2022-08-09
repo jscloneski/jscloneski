@@ -42,14 +42,14 @@ Read me status:
 -->
 
   <div align="left">
-   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js" />
-   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js" />
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=jscloneski&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js"/>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js"/>
   </div>
 
  <br>
 
   <div align="left">
-   <img height=151em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js" />
+   <img height=151em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
   </div>
 
 
