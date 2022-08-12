@@ -35,7 +35,7 @@ Linkedin and email hyperlink
 Gif:
 -->
  
-<div align="left">
+<div style="display: flex">
  <img height=367em align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
 </div>
 
