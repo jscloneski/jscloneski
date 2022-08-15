@@ -36,7 +36,7 @@ Gif:
 -->
  
 <div style="display: flex">
- <img height=367em align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
+ <img height=367em Widht=140em align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
 </div>
 
 <!--
