@@ -7,7 +7,7 @@
 
 🪐 Aspiring Frontend Developer
 <br>
-🪐 Currently studying CSS
+🪐 Currently studying HTML & CSS
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=jscloneski&label=PROFILE+VIEWS">
