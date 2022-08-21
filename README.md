@@ -39,6 +39,7 @@ Gif:
  <img align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
 </div>
 <br>
+<br>
 <!--
 Read me status:
 -->
