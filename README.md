@@ -38,7 +38,7 @@ Gif:
 <div align="center">
  <img align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
 </div>
-
+<br>
 <!--
 Read me status:
 -->
@@ -52,8 +52,10 @@ Read me status:
    <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
   </div>
 
-<br>
+
  
-<img src="https://github.com/jscloneski/jscloneski/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+<div align="center">
+<img width=870 src="https://github.com/jscloneski/jscloneski/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
 
 </main>
