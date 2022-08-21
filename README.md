@@ -54,5 +54,6 @@ Read me status:
 
 <br>
  
+<img src="https://github.com/jscloneski/jscloneski/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 
 </main>
