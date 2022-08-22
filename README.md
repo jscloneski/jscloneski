@@ -1,6 +1,6 @@
 <header>
  <!--
- Introduction:
+💫 Introduction:
 -->
 
 <h1> Hi there, I'm João Scloneski 🚀 </h1>
@@ -14,7 +14,7 @@
 </div>
 
 <!--
-Linkedin and email hyperlink:
+🔗 Linkedin and email hyperlink:
 -->
  
   <div style="display: flex">
@@ -29,7 +29,7 @@ Linkedin and email hyperlink:
   </div>
 
 <!--
-Gif:
+👾 Gif:
 -->
  
 <div align="center">
@@ -43,8 +43,9 @@ Gif:
 
 <h2> 🪐 GitHub stats: </h2>
 <br>
+
 <!--
-Read me status:
+📖 Read me status:
 -->
 
   <div align="center">
@@ -57,7 +58,7 @@ Read me status:
   </div>
 
 <!--
-Snake game contribution chart:
+🐍📊 Snake game contribution chart:
 -->
 
 <h2> 🪐 Contribution chart: </h2>
