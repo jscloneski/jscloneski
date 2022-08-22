@@ -1,9 +1,9 @@
-<main>
+<header>
  <!--
-**jscloneski/jscloneski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Introduction:
 -->
 
-### <h1> Hi there, I'm João Scloneski 🚀 </h1>
+<h1> Hi there, I'm João Scloneski 🚀 </h1>
 
 🪐 Aspiring Frontend Developer
 <br>
@@ -13,10 +13,8 @@
 <img src="https://komarev.com/ghpvc/?username=jscloneski&label=PROFILE+VIEWS">
 </div>
 
-
-
 <!--
-Linkedin and email hyperlink
+Linkedin and email hyperlink:
 -->
  
   <div style="display: flex">
@@ -30,7 +28,6 @@ Linkedin and email hyperlink
     </a>
   </div>
 
-
 <!--
 Gif:
 -->
@@ -39,6 +36,12 @@ Gif:
  <img align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
 </div>
 <br>
+
+</header>
+
+<main>
+
+<h2> 🪐 GitHub stats: </h2>
 <br>
 <!--
 Read me status:
@@ -53,7 +56,11 @@ Read me status:
    <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
   </div>
 
+<!--
+Snake game contribution chart:
+-->
 
+<h2> 🪐 Contribution chart: </h2>
  
 <div align="center">
 <img width=870 src="https://github.com/jscloneski/jscloneski/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
