@@ -5,9 +5,7 @@
 
 <h1> Hi there, I'm João Scloneski 🚀 </h1>
 
-🪐 Aspiring Frontend Developer
-<br>
-🪐 Currently studying HTML & CSS
+🪐 This is my portfolio! Here I post everything I learn and practice, follow me to see my development as a Front-end Dev!
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=jscloneski&label=PROFILE+VIEWS">
@@ -56,6 +54,15 @@
   <div align="center">
    <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
   </div>
+
+
+<h2> 🪐 Skills: </h2>
+
+<div align="left">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 
 <!--
 🐍📊 Snake game contribution chart:
