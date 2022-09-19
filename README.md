@@ -33,14 +33,20 @@
 <h2> 🪐 Skills: </h2>
 
 <div align="left">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element"><img align="center" alt="HTML" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" class="media-object  img-responsive img-thumbnail"></a>
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" class="media-object  img-responsive img-thumbnail"></a>
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JS" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" class="media-object  img-responsive img-thumbnail"></a>
+
+<a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"><img align="center" alt="TS" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" class="media-object  img-responsive img-thumbnail"></a>
+
+<a href="https://reactjs.org/docs/getting-started.html"><img align="center" alt="React" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" class="media-object  img-responsive img-thumbnail"></a>
+ 
 </div>
  <br>
+ 
 <!--
 👾 Gif:
 -->
