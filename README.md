@@ -72,8 +72,6 @@
    <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
   </div>
 
-
-
 <!--
 🐍📊 Snake game contribution chart:
 -->
