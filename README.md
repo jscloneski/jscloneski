@@ -48,7 +48,7 @@ This is my portfolio! Here I post everything I learn and practice, follow me to 
 -->
  
 <div align="center">
- <img align="center" src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47r5dy6g5z8b892lkbaxi4qig9rrqf6uxy712p37dk&rid=giphy.gif&ct=g">
+ <img align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
 </div>
 <br>
 
