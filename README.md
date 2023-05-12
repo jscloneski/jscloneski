@@ -8,6 +8,7 @@
 This is my portfolio! Here I post everything I learn and practice, follow me to see my development as a Front-end Dev!
 
 <div align="left">
+ 
 <img src="https://komarev.com/ghpvc/?username=jscloneski&label=PROFILE+VIEWS">
 </div>
 
