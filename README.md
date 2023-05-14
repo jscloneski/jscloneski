@@ -13,7 +13,7 @@ This is my portfolio! Here I post everything I learn and practice, follow me to 
 </div>
 
 <!--
-🔗 Linkedin and email hyperlink:
+🔗 Contact:
 -->
  
   <div style="display: flex">
