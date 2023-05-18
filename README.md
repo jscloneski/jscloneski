@@ -16,6 +16,7 @@ This is my portfolio! Here I post everything I learn and practice, follow me to 
 🔗 Contact:
 -->
  
+ 
   <div style="display: flex">
     <a 
        href="https://www.linkedin.com/in/jscloneskidev/" target="_blank" rel="noopener">
