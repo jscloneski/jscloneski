@@ -3,6 +3,7 @@
 💫 Introduction:
 -->
 
+
 <h1> Hi there, I'm João Scloneski 🚀 </h1>
 
 This is my portfolio! Here I post everything I learn and practice, follow me to see my development as a Front-end Dev!
