@@ -84,7 +84,7 @@ This is my portfolio! Here I post everything I learn and practice, follow me to 
 <!--
 🐍📊 Snake game contribution chart:
 -->
-
+<!--
 <h2> 🪐 Contribution chart: </h2>
  
 <div align="center">
@@ -92,5 +92,5 @@ This is my portfolio! Here I post everything I learn and practice, follow me to 
 </div>
 
 </main>
-
+-->
 
